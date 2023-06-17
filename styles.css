@@ -9,11 +9,38 @@ ul {
     list-style: none; 
     padding-left: 0;
     line-height: 5rem;
+    margin: 60px 20px;
 }
 
+li {
+    margin-bottom: 50px;
+    border: 3px solid black;
+    border-radius: 20px;
+    font-size: 2.5rem;
+}
 
+#one {
+    background-color: rgb(205, 52, 52); 
+    box-shadow: 7px 10px rgb(124, 19, 19);
+}
 
+#two {
+    background-color: rgb(65, 131, 65);
+    box-shadow: 7px 10px rgb(56, 111, 36);
+}
 
+#three {
+    background-color: orange;
+    box-shadow: 7px 10px rgb(209, 146, 1);
+}
+
+a:link {
+    color: white; 
+}
+
+a:visited {
+    color: white;
+}
 
 
 
