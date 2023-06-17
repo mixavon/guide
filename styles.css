@@ -51,6 +51,8 @@ li {
     box-shadow: 7px 10px rgb(27, 91, 128);
 }
 
+
+
 a:link {
     color: white; 
 }
@@ -63,7 +65,11 @@ h2 {
     font-weight: bold;
 }
 
-
 iframe {
     width: 100%;
+    margin-top: 30px; 
+}
+
+table {
+    background-color: rgb(123, 155, 251);
 }
