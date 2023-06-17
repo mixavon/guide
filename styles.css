@@ -5,6 +5,15 @@ html {
     font-size: 18px;
 }
 
+#home img {
+    width: 50px;
+    length: auto;
+}
+
+#home {
+    color: black;
+}
+
 ul {
     list-style: none; 
     padding-left: 0;
