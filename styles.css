@@ -88,7 +88,7 @@ li {
 #tags {
     color: blue;
     background-color: aquamarine;
-    padding: 5px;
+    padding: 10px;
     border: 1px solid blue;
     border-radius: 10px;
     z-index: 10;
@@ -147,3 +147,14 @@ table {
     background-color: rgb(249, 167, 73);
 }
 
+icon {
+    font-size: 2rem;
+    padding-right: 10px;
+    color: rgb(237, 28, 28);
+    text-decoration-line: overline;
+}
+
+#arrow {
+    color: black;
+    font-style: italic;
+}
