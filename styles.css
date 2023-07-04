@@ -151,10 +151,12 @@ icon {
     font-size: 2rem;
     padding-right: 10px;
     color: rgb(237, 28, 28);
-    text-decoration-line: overline;
+    /*text-decoration-line: overline;*/ 
+    text-decoration: none; 
 }
 
 #arrow {
-    color: black;
+    color: rgb(135, 4, 4);
     font-style: italic;
+    text-decoration: underline; 
 }
