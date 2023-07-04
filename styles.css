@@ -33,8 +33,12 @@ ul {
 
 @media only screen and (max-width: 450px){
     ul {
-        width: auto;
-        margin: 0;
+        width: 400px; 
+        margin: auto; 
+    }
+
+    li {
+        padding: 5px 50px;
     }
 }
 
