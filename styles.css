@@ -78,21 +78,25 @@ li {
 #one {
     background-color: rgb(205, 52, 52); 
     box-shadow: 7px 10px rgb(124, 19, 19); 
+    cursor:pointer;
 }
 
 #one:active {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
+    cursor:pointer;
 }
 
 #two {
     background-color: rgb(65, 131, 65);
     box-shadow: 7px 10px rgb(56, 111, 36);
+    cursor:pointer;
 }
 
 #two:active {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
+    cursor:pointer;
 }
 
 #three {
@@ -103,36 +107,43 @@ li {
 #three:active {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
+    cursor:pointer;
 }
 
 #four {
     background-color: rgb(69, 132, 195);
     box-shadow: 7px 10px rgb(27, 91, 128);
+    cursor:pointer;
 }
 
 #four:active {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
+    cursor:pointer;
 }
 
 #five {
     background-color: rgb(69, 132, 195);
     box-shadow: 7px 10px rgb(27, 91, 128);
+    cursor:pointer;
 }
 
 #five:active {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
+    cursor:pointer;
 }
 
 #six {
     background-color: orange;
     box-shadow: 7px 10px rgb(209, 146, 1);
+    cursor:pointer;
 }
 
 #six:active {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
+    cursor:pointer;
 }
 
 #seven {
