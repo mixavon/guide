@@ -17,8 +17,16 @@ body {
 }
 
 #home {
-    color: black;
+    display: flex;
+    color: black; 
+    text-decoration: none;
+    align-items: end;
+    justify-content: end; 
+    padding-right: 25px;
+    padding-top: 10px;
 }
+
+
 
 ul {
     list-style: none; 
