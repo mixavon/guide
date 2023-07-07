@@ -108,7 +108,7 @@ li {
 
 #two:hover, #two.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(124, 19, 19); 
+    box-shadow: 1px 1px rgb(56, 111, 36); 
     transform: translateY(4px);
     cursor:pointer;
 }
@@ -126,7 +126,7 @@ li {
 
 #three:hover, #three.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(124, 19, 19); 
+    box-shadow: 1px 1px rgb(209, 146, 1); 
     transform: translateY(4px);
     cursor:pointer;
 }
@@ -145,7 +145,7 @@ li {
 
 #four:hover, #four.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(124, 19, 19); 
+    box-shadow: 1px 1px rgb(27, 91, 128); 
     transform: translateY(4px);
     cursor:pointer;
 }
@@ -164,7 +164,7 @@ li {
 
 #five:hover, #five.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(124, 19, 19); 
+    box-shadow: 1px 1px rgb(27, 91, 128); 
     transform: translateY(4px);
     cursor:pointer;
 }
@@ -183,7 +183,7 @@ li {
 
 #six:hover, #six.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(124, 19, 19); 
+    box-shadow: 1px 1px rgb(209, 146, 1); 
     transform: translateY(4px);
     cursor:pointer;
 }
