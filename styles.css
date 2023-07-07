@@ -75,19 +75,20 @@ li {
     margin-bottom: 50px;
 }
 
-li:hover, li.hover {
-     /* whatever your hover effect is */ 
-     transform: translateY(4px);
-     box-shadow: 1px 1px; 
-}
-
 #one {
     background-color: rgb(205, 52, 52); 
     box-shadow: 7px 10px rgb(124, 19, 19); 
     cursor:pointer;
 }
 
-#one:active {
+/* #one:active {
+    box-shadow: 1px 1px rgb(124, 19, 19); 
+    transform: translateY(4px);
+    cursor:pointer;
+}*/ /**/
+
+#one:hover, #one.hover {
+    /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
@@ -99,7 +100,14 @@ li:hover, li.hover {
     cursor:pointer;
 }
 
-#two:active {
+/*#two:active {
+    box-shadow: 1px 1px rgb(124, 19, 19); 
+    transform: translateY(4px);
+    cursor:pointer;
+}*/
+
+#two:hover, #two.hover {
+    /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
@@ -110,7 +118,14 @@ li:hover, li.hover {
     box-shadow: 7px 10px rgb(209, 146, 1);
 }
 
-#three:active {
+/*#three:active {
+    box-shadow: 1px 1px rgb(124, 19, 19); 
+    transform: translateY(4px);
+    cursor:pointer;
+}*/
+
+#three:hover, #three.hover {
+    /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
@@ -122,7 +137,14 @@ li:hover, li.hover {
     cursor:pointer;
 }
 
-#four:active {
+/*#four:active {
+    box-shadow: 1px 1px rgb(124, 19, 19); 
+    transform: translateY(4px);
+    cursor:pointer;
+}*/
+
+#four:hover, #four.hover {
+    /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
@@ -134,7 +156,14 @@ li:hover, li.hover {
     cursor:pointer;
 }
 
-#five:active {
+/*#five:active {
+    box-shadow: 1px 1px rgb(124, 19, 19); 
+    transform: translateY(4px);
+    cursor:pointer;
+}*/
+
+#five:hover, #five.hover {
+    /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
@@ -146,7 +175,14 @@ li:hover, li.hover {
     cursor:pointer;
 }
 
-#six:active {
+/*#six:active {
+    box-shadow: 1px 1px rgb(124, 19, 19); 
+    transform: translateY(4px);
+    cursor:pointer;
+}*/
+
+#six:hover, #six.hover {
+    /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
