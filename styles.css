@@ -115,7 +115,7 @@ li {
     transition-duration: 0.7s;
 }
 
-#three {
+#five {
     background-color: orange;
     box-shadow: 7px 10px rgb(209, 146, 1);
 }
@@ -126,7 +126,7 @@ li {
     cursor:pointer;
 }*/
 
-#three:hover, #three.hover {
+#five:hover, #five.hover {
     /* whatever your hover effect is */ 
     box-shadow: 1px 1px rgb(209, 146, 1); 
     transform: translateY(4px);
@@ -154,9 +154,9 @@ li {
     transition-duration: 0.7s;
 }
 
-#five {
-    background-color: rgb(69, 132, 195);
-    box-shadow: 7px 10px rgb(27, 91, 128);
+#three {
+    background-color: rgb(195, 126, 69);
+    box-shadow: 7px 10px rgb(140, 82, 15);
     cursor:pointer;
 }
 
@@ -166,17 +166,17 @@ li {
     cursor:pointer;
 }*/
 
-#five:hover, #five.hover {
+#three:hover, #three.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(27, 91, 128); 
+    box-shadow: 1px 1px rgb(140, 82, 15); 
     transform: translateY(4px);
     cursor:pointer;
     transition-duration: 0.7s;
 }
 
 #six {
-    background-color: orange;
-    box-shadow: 7px 10px rgb(209, 146, 1);
+    background-color: rgb(151, 95, 203);
+    box-shadow: 7px 10px rgb(88, 34, 113);
     cursor:pointer;
 }
 
@@ -188,7 +188,7 @@ li {
 
 #six:hover, #six.hover {
     /* whatever your hover effect is */ 
-    box-shadow: 1px 1px rgb(209, 146, 1); 
+    box-shadow: 1px 1px rgb(88, 34, 113); 
     transform: translateY(4px);
     cursor:pointer;
     transition-duration: 0.7s;
