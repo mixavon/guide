@@ -75,6 +75,12 @@ li {
     margin-bottom: 50px;
 }
 
+li:hover, li.hover {
+     /* whatever your hover effect is */ 
+     transform: translateY(4px);
+     box-shadow: 1px 1px; 
+}
+
 #one {
     background-color: rgb(205, 52, 52); 
     box-shadow: 7px 10px rgb(124, 19, 19); 
