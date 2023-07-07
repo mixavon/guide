@@ -92,6 +92,7 @@ li {
     box-shadow: 1px 1px rgb(124, 19, 19); 
     transform: translateY(4px);
     cursor:pointer;
+    transition-duration: 0.7s;
 }
 
 #two {
@@ -111,6 +112,7 @@ li {
     box-shadow: 1px 1px rgb(56, 111, 36); 
     transform: translateY(4px);
     cursor:pointer;
+    transition-duration: 0.7s;
 }
 
 #three {
@@ -129,6 +131,7 @@ li {
     box-shadow: 1px 1px rgb(209, 146, 1); 
     transform: translateY(4px);
     cursor:pointer;
+    transition-duration: 0.7s;
 }
 
 #four {
@@ -148,6 +151,7 @@ li {
     box-shadow: 1px 1px rgb(27, 91, 128); 
     transform: translateY(4px);
     cursor:pointer;
+    transition-duration: 0.7s;
 }
 
 #five {
@@ -167,6 +171,7 @@ li {
     box-shadow: 1px 1px rgb(27, 91, 128); 
     transform: translateY(4px);
     cursor:pointer;
+    transition-duration: 0.7s;
 }
 
 #six {
@@ -186,6 +191,7 @@ li {
     box-shadow: 1px 1px rgb(209, 146, 1); 
     transform: translateY(4px);
     cursor:pointer;
+    transition-duration: 0.7s;
 }
 
 #seven {
