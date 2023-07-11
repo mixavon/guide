@@ -16,6 +16,15 @@ body {
     height: auto; 
 }
 
+#vol {
+    width: 150px;
+}
+
+header img {
+    visibility:hidden;
+    display: none;
+}
+
 #home {
     display: flex;
     color: black; 
@@ -198,6 +207,39 @@ li {
     background-color: rgb(134, 10, 113); 
     box-shadow: 7px 10px rgb(80, 5, 92);
     visibility: hidden;
+    display: none;
+}
+
+#eight {
+    width: 450px;   
+    max-width: 900px;
+    max-height: 300px; 
+}
+
+#eight {
+    background-color: rgb(174, 169, 178);
+    box-shadow: 7px 10px rgb(92, 91, 91);
+    cursor:pointer;
+}
+
+#eight:hover, #eight.hover {
+    /* whatever your hover effect is */ 
+    box-shadow: 1px 1px rgb(92, 91, 91); 
+    transform: translateY(4px);
+    cursor:pointer;
+    transition-duration: 0.7s;
+}
+
+@media only screen and (max-width: 450px){
+   #eight {
+    width: 200px;
+   }
+}
+
+.donate-vid {
+    width: 90%;
+    max-width: 900px;
+
 }
  
 /*.btn {
