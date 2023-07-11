@@ -213,7 +213,8 @@ li {
 #eight {
     width: 450px;   
     max-width: 900px;
-    max-height: 300px; 
+    max-height: 300px;
+    background-color: gray;
 }
 
 #eight {
